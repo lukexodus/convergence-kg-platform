@@ -56,7 +56,20 @@ The result is an enormous amount of knowledge that sits **inert** — acquired, 
 
 ---
 
-## **III. THE CONVERGENCE LEARNING ORIENTATION**
+## **III. THE TWO ORIENTATIONS: OLD VS. CONVERGENCE**
+
+| Dimension              | Fragmented Learning                                | Convergence Learning                                                                   |
+| ---------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **Why**                | Curiosity, credentials, survival, self-improvement | Ultimately: to serve people and solve real problems                                    |
+| **What**               | Topics that interest me or seem useful to me       | Topics interrogated for their connection to real-world problems                        |
+| **How**                | Learn content → store it → recall when needed      | Learn content → immediately relate to problems → integrate into a web of understanding |
+| **Connection**         | Concept relates to other concepts in same domain   | Concept relates to all other known concepts *and* to the unknown — across all domains  |
+| **Measure of success** | Did I understand it? Can I recall it?              | Does this expand my capacity to solve a real problem?                                  |
+| **End state**          | A person with accumulated knowledge                | A person whose knowledge is a living, problem-solving instrument                       |
+
+---
+
+## **IV. THE CONVERGENCE LEARNING ORIENTATION**
 
 *(The Mindset — What You Carry Before, During, and After Learning)*
 
@@ -114,7 +127,7 @@ No individual can know everything. The map is always partial. The Convergence le
 
 ---
 
-## **IV. THE CONVERGENCE LEARNING CYCLE**
+## **V. THE CONVERGENCE LEARNING CYCLE**
 
 *(Applied before, during, and after any learning)*
 
@@ -151,7 +164,7 @@ After engaging with material, before closing it:
 
 ---
 
-## **V. THE CONVERGENCE KNOWLEDGE WEB**
+## **VI. THE CONVERGENCE KNOWLEDGE WEB**
 
 *(The Structural Idea Behind the Technique)*
 
@@ -169,7 +182,7 @@ Over time, the goal is a **living web** in which no node is isolated. Not becaus
 
 ---
 
-## **VI. KNOWN GAPS — AGENDA FOR THE NEXT PHASE**
+## **VII. KNOWN GAPS — AGENDA FOR THE NEXT PHASE**
 
 | Gap | What Needs to Be Built |
 | ----- | ----- |
@@ -183,199 +196,9 @@ Over time, the goal is a **living web** in which no node is isolated. Not becaus
 
 ---
 
-## **VII. THE WORKING DEFINITION**
+## **VIII. THE WORKING DEFINITION**
 
 > **Convergence Learning** is a mindset and method of acquiring knowledge oriented ultimately toward serving people and solving real-world problems — in which every piece of knowledge is consciously integrated across domains, across scales, and across the full horizon of human need — so that learning is never isolated, never merely personal, and never wasted.
-
----
-
-# **CONVERGENCE LEARNING**
-
-### ***The Learning Branch of the Convergence Framework***
-
-#### ***Ideal-Level Document***
-
----
-
-## **I. THE ROOT PROBLEM THIS BRANCH SOLVES**
-
-Most learning is **motivated by self-contained goals** that do not ultimately connect to the deepest needs of people or the real problems of the world:
-
-| Motivation | What's Missing |
-| ----- | ----- |
-| Curiosity | Direction — curiosity without purpose produces scattered knowledge |
-| Workplace relevance | Integration — skills for employment ≠ skills for solving real problems |
-| Love of learning | Anchor — noble, but still self-contained if not oriented outward |
-| Self-improvement | Connection — personal growth that never bridges into service is incomplete |
-| Credentials | Meaning — acquiring markers of knowledge without the knowledge functioning in reality |
-
-The result of all of these, when they lack the ultimate purpose, is the same: **fragmented learning** — knowledge that accumulates but does not converge into anything that serves people or solves problems at scale.
-
-There are two specific forms of fragmentation this branch addresses:
-
-**Fragmentation 1 — Motivational:** Learning is driven by purposes that stop short of the real world. The learner has no ultimate anchor that connects *why I am learning this* to *what this does for people*.
-
-**Fragmentation 2 — Structural:** Because the motivation is fragmented, the method becomes fragmented too. Knowledge is acquired in isolated units — a skill here, a concept there — without being woven into the fabric of real-world problems in their full complexity and interconnection.
-
----
-
-## **II. THE CONVERGENCE LEARNING AXIOM**
-
-> **You do not learn to know. You learn to serve.**
-
-Knowledge is not the destination. It is the material. The destination is the solution of real problems for real people — which is itself the expression of the four integrated root needs (love, spirituality, provision, self-actualization) applied outward into the world.
-
-This does not diminish curiosity or the joy of learning. It **elevates and directs** them. Curiosity becomes a tool. Love of learning becomes fuel. The difference is that these now have an ultimate anchor rather than floating freely.
-
----
-
-## **III. THE TWO ORIENTATIONS: OLD VS. CONVERGENCE**
-
-| Dimension | Fragmented Learning | Convergence Learning |
-| ----- | ----- | ----- |
-| **Why** | Curiosity, credentials, survival, self-improvement | Ultimately: to serve people and solve real problems |
-| **What** | Topics that interest me or seem useful to me | Topics interrogated for their connection to real-world problems |
-| **How** | Learn content → store it → recall when needed | Learn content → immediately relate to problems → integrate into a web of understanding |
-| **Connection** | Concept relates to other concepts in same domain | Concept relates to all other known concepts *and* to the unknown — across all domains |
-| **Measure of success** | Did I understand it? Can I recall it? | Does this expand my capacity to solve a real problem? |
-| **End state** | A person with accumulated knowledge | A person whose knowledge is a living, problem-solving instrument |
-
----
-
-## **IV. THE CONVERGENCE LEARNING MINDSET**
-
-### ***What to carry at all times — before, during, and after learning***
-
-This is the core mindset layer. It is not a technique yet — it is the **orientation** from which all technique flows.
-
-### **1\. The Problem Horizon**
-
-Before learning anything, hold in mind — even loosely — **the full horizon of real-world problems**. Not just the specific problem you are studying. The whole landscape: poverty, illness, conflict, injustice, inefficiency, broken systems, unmet needs.
-
-Every piece of knowledge exists somewhere on this horizon. Your job is to find where.
-
-> *"Where does this piece of knowledge touch the world's real problems?"*
-
-This is the first question of Convergence Learning, asked of everything.
-
-### **2\. The Integration Imperative**
-
-No piece of knowledge is an island. Everything connects — across domains, across scales, across disciplines. The Convergence learner is always asking:
-
-> *"How does this connect to what I already know? And how does what I already know connect to this?"*
-
-This is not merely association for memory (as in conventional learning techniques). It is **functional integration** — mapping not just how concepts relate intellectually, but how they *together* address a problem they could not address alone.
-
-Your diversity of interests is not a weakness or distraction. In Convergence Learning, it is your **raw material for integration**. The person who understands only one domain can solve problems only in one domain. The person who integrates many domains can solve problems that no single domain can reach.
-
-### **3\. The Servant Posture**
-
-Knowledge is not a possession. It is held in trust for the people whose problems it can solve.
-
-This is the mindset-level expression of love in the framework. When you learn something, you are not acquiring it *for yourself* — you are becoming capable of something *for others*. This posture changes how you hold knowledge: with urgency, with responsibility, and with generosity.
-
-### **4\. The Reality Test**
-
-At every stage of learning, apply the reality test:
-
-> *"Is this true? And if it is true — where does it appear in the real world, and what does it change there?"*
-
-This prevents learning from becoming abstract. Even highly theoretical knowledge — mathematics, philosophy, linguistics — must be traceable back to something real. The Convergence learner does not abandon theory, but always holds the thread that connects theory to the world.
-
-### **5\. The Humility of Incompleteness**
-
-No individual can know everything. The Convergence learner is always aware that:
-
-* Their current knowledge is a partial map, not the full territory.  
-* Integration is a direction of travel, not an achieved state.  
-* Every gap in understanding is a gap in their capacity to serve.
-
-This produces not anxiety, but **motivated curiosity** — the kind that is no longer just personal interest but is oriented toward completing the map for a purpose.
-
----
-
-## **V. THE CONVERGENCE LEARNING CYCLE**
-
-### ***Applied at any stage: before, during, or after learning***
-
-This is the structural process that operationalizes the mindset.
-
-### **BEFORE Learning — *The Problem Anchor***
-
-Before engaging with any material, ask:
-
-1. **What is this knowledge about?** (Domain identification)  
-2. **What real-world problems does this domain touch?** (Problem horizon orientation)  
-3. **What do I already know that connects to this?** (Integration preparation)  
-4. **What am I hoping this knowledge will make possible?** (Purpose setting — ultimately: serving people, solving problems)
-
-This transforms learning from a passive intake into an **intentional act**.
-
-### **DURING Learning — *The Convergence Pass***
-
-As you engage with material, run it through three simultaneous lenses:
-
-**Lens 1 — The Problem Lens** *"Which real-world problem does this address, enable, or illuminate?"* Every concept, fact, technique, or idea is held up against the problem horizon. If no connection is visible yet, the question becomes: *"Where might this connect that I cannot yet see?"* — and that question is kept open.
-
-**Lens 2 — The Integration Lens** *"What does this connect to that I already know — inside this domain and across other domains?"* This is where your diverse knowledge becomes power. Ask not just *what is this*, but *where does this fit in the larger structure of everything I know and everything that is real*.
-
-**Lens 3 — The Gap Lens** *"What does this piece of knowledge reveal that I do not yet know?"* Every piece of knowledge is also a window into adjacent unknowns. Convergence Learning actively tracks gaps — not as failures, but as the leading edge of the map.
-
-### **AFTER Learning — *The Integration Pass***
-
-After engaging with material, do not just close the book. Ask:
-
-1. **What did I learn?** (Compression — can you state it simply?)  
-2. **Where does it connect?** (Integration — add it to your web)  
-3. **What problem does it help solve?** (Anchoring — tie it to the real world)  
-4. **What gaps did it reveal?** (Direction — what must I learn next, and why?)  
-5. **Who benefits if I master this?** (Servant posture — keep the orientation outward)
-
----
-
-## **VI. THE CONVERGENCE KNOWLEDGE WEB**
-
-### ***The structural idea behind the technique***
-
-Conventional memory and learning techniques (spaced repetition, mind maps, the Feynman technique, elaborative interrogation) are all valid — but they are organized around **the learner's understanding as the endpoint**.
-
-Convergence Learning proposes a different structure for organizing knowledge:
-
-> Every piece of knowledge is a **node**. Every node has three types of connections:
-
-> 1. **Intra-domain connections** — how it relates to other knowledge in the same field  
-> 2. **Cross-domain connections** — how it relates to knowledge in other fields  
-> 3. **Problem connections** — which real-world problems it touches, enables, or partially solves
-
-The goal over time is to build a **living web** where no node is isolated. Every concept you learn — whether it is a programming concept, an economic theory, a historical event, or a grammatical structure in a foreign language — is placed in this web and connected outward in all three directions.
-
-This is not about knowing everything. It is about **knowing how everything you know relates** — and using that relational structure to see problems more completely and solve them more powerfully.
-
----
-
----
-
-## **VIII. KNOWN GAPS — FOR THE NEXT PHASE**
-
-| Gap | What Needs to Be Built |
-| ----- | ----- |
-| **The Problem Horizon Map** | A concrete, organized map of real-world problems that a learner can use as a reference when anchoring new knowledge — so "the full horizon of real problems" is not vague but structured and navigable |
-| **The Convergence Knowledge Web — Method** | A practical note-taking or knowledge management technique (possibly Obsidian-native) that implements the three-connection-type node structure — how exactly do you record and link knowledge in a way that makes integration visible and usable? |
-| **Domain Prioritization** | When learning time is limited, how does a Convergence learner decide *what to learn next*? What is the decision rule — urgency of the problem it addresses? Gap in current web? Highest leverage? |
-| **The Transition Protocol** | How does a person who has been learning in a fragmented way *convert* their existing knowledge into the Convergence web? Retrospective integration method needed. |
-| **Measuring Learning Quality** | In Convergence Learning, success is not test scores. What is the measure? Depth of problem connections? Breadth of cross-domain integration? Actual contribution to a problem? This needs a concrete rubric. |
-| **The Unknown Connection Problem** | A persistent challenge is how to connect a piece of knowledge to unknown domains or unseen problems, without closing them prematurely or letting them become vague. |
-| **Community and Collaborative Integration** | Individual knowledge webs are limited. How do Convergence learners integrate *across people* — so that different people's webs combine into something no one person could build alone? |
-
----
-
-## **IX. THE WORKING DEFINITION**
-
-> **Convergence Learning** is a mindset and method of acquiring knowledge oriented ultimately toward serving people and solving real-world problems, in which every piece of knowledge is integrated — across domains, across scales, and across the full horizon of human need — so that learning is never isolated, never merely personal, and never wasted.
-
----
-
-**This document ends the ideal phase of the Convergence Learning branch.** The gaps in Section VIII are the precise agenda for the next phase: designing the concrete technique, the knowledge web method, and the learning prioritization model.
 
 ---
 
